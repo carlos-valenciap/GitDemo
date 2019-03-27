@@ -17,6 +17,8 @@ git push origin master
 ## Branches
 
 ```
-//TODO: Add branch commands here
+git branch
+git checkout -b new-branch
+git checkout existing-branch
 ```
 
